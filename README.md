@@ -16,7 +16,7 @@ E.hire_date > '1990-01-01' order by last_name, first_name"
 
 ### Run this container
 ``` bash
-# docker run -p 8080:80 hpierce/docker-lemp-test
+# docker run -p 8080:80 hpierce/docker-lemp-test /bin/bash
 ```
 
 ### View results
